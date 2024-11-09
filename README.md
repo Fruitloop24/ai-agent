@@ -1,9 +1,8 @@
----
-
 # 🛡️ **AI-Powered System Hardening Agent** 🛡️
 
 ### 🚀 **Project Overview**
-Welcome to the AI-Powered System Hardening Agent, a powerful tool designed for Linux systems that combines system diagnostics, network monitoring, and AI-driven analysis. This agent runs a suite of checks to provide a detailed snapshot of system health and security. **Note**: Due to its powerful capabilities and requirements for `sudo`, we recommend running this tool only on **virtual machines** until further security improvements are made.
+Welcome to the AI-Powered System Hardening Agent, a powerful tool designed for Linux systems that combines system diagnostics, network monitoring, and AI-driven analysis. This agent runs a suite of checks to provide a detailed snapshot of system health and security. **Note**: Due to its powerful capabilities and requirements for `sudo`, we recommend running this tool only on **virtual machines** until further security improvements 
+are made.
 
 ### ⚠️ **Important Notice**
 This tool is still under development, with additional features like SSH capabilities, baseline comparisons, and enhanced network monitoring on the way. For now, it is designed solely for **Linux systems**, and running it on other operating systems may result in unexpected behavior. Proceed with caution and follow all setup guidelines to ensure a safe and secure experience.
@@ -106,4 +105,3 @@ View the project on GitHub: [AI-Agent Repository](https://github.com/Fruitloop24
 ### 🖥️ **Explore More**:
 For live demonstrations and more details on my projects, visit **[my e-portfolio](https://eportkc.com)**.
 
----
